@@ -9,6 +9,12 @@
 
 ---
 
+
+HuggingFace
+https://huggingface.co/ItsMehRawrXD/bigdaddyg-gguf
+
+---
+
 ## 📥 Installation
 
 ### Option 1: Use with Ollama (Recommended)
